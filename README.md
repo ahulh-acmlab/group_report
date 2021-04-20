@@ -22,7 +22,7 @@
 | 作者     | Jiayuan Mao, Tete Xiao, Yuning Jiang, Zhimin Cao             |
 | 来源     | CVPR 2017                                                    |
 | 主要内容 | 本文通过将额外的特征聚合到基于CNN的行人检测框架中来讨论基于CNN的行人探测器是否以及如何受益于额外特征。通过大量的实验，我们对不同类型的额外特征的效果进行了定量的评估。此外，我们还提出了一种新的网络结构，即HyperLearner，用于联合学习行人检测和给定的额外特征。 |
-| 实验结果 | 通过多任务训练，HyperLearner能够利用给定特征的信息，在不增加推理输入的情况下提高检测性能。在多个行人基准上的实验结果验证了所提出的HyperLearner算法的有效性。我们的。<br/>定量实验显示语义通道特征。可以帮助检测器辨别坚硬的阳性样本。低分辨率的负值样本，而表观通道。功能可抑制背景的误报并改进。高分辨率下的定位精度。 |
+| 实验结果 | 通过多任务训练，HyperLearner能够利用给定特征的信息，在不增加推理输入的情况下提高检测性能。在多个行人基准上的实验结果验证了所提出的HyperLearner算法的有效性。我们的定量实验显示语义信道特征可以帮助检测器辨别困难的正样本和低分辨率的负样本。而表征信道特征可抑制背景的误报并提高高分辨率下的定位精度。 |
 | paper    | [What Can Help Pedeatrian Detection.pdf](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-21/What%20Can%20Help%20Pedeatrian%20Detection.pdf) |
 | code     | 暂无                                                         |
 | ppt      | [What Can Help Pedestrian Detection.pptx](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-21/What%20Can%20Help%20Pedestrian%20Detection.pptx) |
