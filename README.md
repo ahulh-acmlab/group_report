@@ -37,7 +37,7 @@
 | 来源     | ECCV 2018                                                    |
 | 主要内容 | 本文主要解决对于行人的遮挡问题，本文在R-CNN的基础上主要引入了两个内容，一是**聚合损失函数**(aggregation loss)强制使proposals能够靠近真实值，二是用**部分遮挡感知 ROI 池单元** (part occlusion-aware region of interest(PORoI)pooling unit)对RoI池化层进行替换,将具有可见性的预测人体先验结构信息整合到网络中处理遮挡.|
 | 实验结果 | 采用端到端的方式进行训练，在三个行人数据集 City Person、ETHI、INRIA上实现了2018年6月最先进的精度 |
-| paper    | []() |
+| paper    | [Occlusion-aware R-CNN Detecting](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-28/Shifeng_Zhang_Occlusion-aware_R-CNN_Detecting_ECCV_2018_paper.pdf) |
 | code     | 暂无                                                        |
 | ppt      | []() |
 | 报告人   | [李哲楷](https://github.com/PiKaChu-wcg)                     |
