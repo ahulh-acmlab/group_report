@@ -51,7 +51,7 @@
 | 来源     | CVPR 2020                                                    |
 | 主要内容 | |
 | 实验结果 |  |
-| paper    | [Designing Network Design Spaces](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-28/Shifeng_Zhang_Occlusion-aware_R-CNN_Detecting_ECCV_2018_paper.pdf) |
+| paper    | [Designing Network Design Spaces](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-28/Radosavovic_Designing_Network_Design_Spaces_CVPR_2020_paper.pdf) |
 | code     | 暂无                                                        |
 | ppt      | []() |
 | 报告人   | [常昊冉](https://github.com/Rienotox)                     |
