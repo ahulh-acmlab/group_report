@@ -44,7 +44,7 @@
 
 
 
-| 论文     | Radosavovic_Designing_Network_Design_Spaces_CVPR_2020_paper       |
+| 论文     | Designing Network Design Spaces       |
 | -------- | ------------------------------------------------------------ |
 | 发表时间 |                                                      |
 | 作者     | Ilija Radosavovic,Raj Prateek Kosaraju,Ross Girshick,Kaiming He,Piotr Doll´ar  |
