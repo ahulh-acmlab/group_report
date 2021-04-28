@@ -39,8 +39,8 @@
 | 实验结果 | 采用端到端的方式进行训练，在三个行人数据集 City Person、ETHI、INRIA上实现了2018年6月最先进的精度 |
 | paper    | [Occlusion-aware R-CNN Detecting](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-28/Shifeng_Zhang_Occlusion-aware_R-CNN_Detecting_ECCV_2018_paper.pdf) |
 | code     | 暂无                                                        |
-| ppt      | []() |
-| 报告人   | [李哲楷](https://github.com/PiKaChu-wcg)                     |
+| ppt      | [or-cnn.pptx](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-28/or-cnn.pptx) |
+| 报告人   | [李哲楷](https://github.com/Ayric-cmad)                     |
 
 
 
