@@ -49,7 +49,7 @@
 | 发表时间 |                                                      |
 | 作者     | Ilija Radosavovic,Raj Prateek Kosaraju,Ross Girshick,Kaiming He,Piotr Doll´ar  |
 | 来源     | CVPR 2020                                                    |
-| 主要内容 | 本文针对图像识别，提出了一种改进神经网络的方法。本文结合了手动设计与NAS(neural architecture search)的优点，力求使得改进后的神经网络在保持各项指标优秀的情况下，具有更强的简易性、可解释性与更低的算力需求、训练次数需求；同时在此基础上，提高了该方法的普适性。|
+| 主要内容 | 本文针对图像识别，提出了一种**改进神经网络**的方法。本文结合了手动设计与NAS(neural architecture search)的优点，力求使得改进后的神经网络在保持各项指标优秀的情况下，具有**更强的简易性、可解释性**与**更低的算力需求、训练次数需求**；同时在此基础上，提高了该方法的**普适性**。|
 | 实验结果 |  |
 | paper    | [Designing Network Design Spaces](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-28/Radosavovic_Designing_Network_Design_Spaces_CVPR_2020_paper.pdf) |
 | code     | 暂无                                                        |
