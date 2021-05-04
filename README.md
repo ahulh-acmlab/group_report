@@ -53,5 +53,5 @@
 | 实验结果 |实验数据表明，其他条件相同时，在中等水准以上flops的情况下，尤其是高水准flops时，RegNet的表现优于EfficientNet，**误差更小**，且训练速度更快，**最高可达5倍速度**。  |
 | paper    | [Designing Network Design Spaces](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-28/Radosavovic_Designing_Network_Design_Spaces_CVPR_2020_paper.pdf) |
 | code     | [RegNet-Search-PyTorch](https://github.com/zhanghang1989/RegNet-Search-PyTorch)                                                        |
-| ppt      | [Designing%20Network%20Design%20Spaces](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-28/Designing%20Network%20Design%20Spaces.pptx) |
+| ppt      | [Designing Network Design Spaces](https://github.com/ahulh-acmlab/group_report/blob/main/2021-4-28/Designing%20Network%20Design%20Spaces.pptx) |
 | 报告人   | [常昊冉](https://github.com/Rienotox)                     |
